@@ -2,7 +2,6 @@
 
 - 💻 Sou universitário cursando Ciência da Computação
 - 📗 Estudo JavaScript, HTML, CSS e Python
-- 🎼 Fun fact: sou musico e amo arte no geral
 ##
 <div>
 <a href="https://github.com/guifzy">
