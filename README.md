@@ -9,10 +9,7 @@
 <a href="https://github.com/guifzy">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=guifzy&show_icons=true&theme=merko&count_private=true"/>
 <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifzy&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats"/>
-  
-##
-  
-### -Ferramentas e Tecnologias:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="guia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
