@@ -4,7 +4,7 @@
 - 📗 Estudo JavaScript, HTML, CSS e Python
 ##
 
-###  -Estatísticas:
+###  -GitHub Stats:
 <div>
 <a href="https://github.com/guifzy">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=guifzy&show_icons=true&theme=merko&count_private=true"/>
