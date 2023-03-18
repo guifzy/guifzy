@@ -1,8 +1,4 @@
-### Olá, me chamo Guilherme
 
-- 💻 Universitário cursando Ciência da Computação
-
-##
 
 <div align="center">
 <a href=></a>
