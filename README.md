@@ -32,7 +32,7 @@ src="https://madmuseum.org/sites/default/files/styles/5_x_3/public/2019/02/Ghost
   <a href="https://www.linkedin.com/in/gui-fernandes04/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div>
-  <src="https://github-readme-activity-graph.cyclic.app/graph?username=gfzy&bg_color=000000&color=ffffff&line=0cdf24&point=00852c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+  <src="https://github-readme-activity-graph.cyclic.app/graph?username=gfzy&bg_color=000000&color=ffffff&line=0cdf24&point=00852c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph/>
   
   <div align="left">
 <a href=></a>
