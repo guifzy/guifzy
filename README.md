@@ -13,13 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40px" width="40px" title="Python (Data Analysis & Automation)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="java logo" height="40px" width="40px" title=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="cplusplus logo" height="40px" width="40px" title=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo" height="40px" width="40px" title="C# (.NET Development)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" height="40px" width="40px" title="JavaScript (Front-end & Back-end)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40px" width="40px" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="40px" width="40px" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" alt="rstudio logo" height="40px" width="40px" title="R (Statistical Analysis)"/>
-  <img src="https://img.icons8.com/?size=100&id=HOpiPSjPWNNd&format=png&color=000000" alt="solidity logo" height="40px" width="40px" title="Solidity (Smart Contracts)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab logo" height="40px" width="40px" title="MATLAB"/>
 </div>
 
 ##
