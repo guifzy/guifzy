@@ -10,9 +10,33 @@
 ## Stacks
 
 <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40px" width="40px" title="Python (Data Analysis & Automation)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="java logo" height="40px" width="40px" title=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="cplusplus logo" height="40px" width="40px" title=""/>
+
+  <!-- Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40px" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40px" title="TensorFlow"/>
+
+  <!-- LLM / RAG -->
+  <img src="https://cdn.simpleicons.org/langchain/ffffff" height="40px" title="LangChain"/>
+  <img src="https://cdn.simpleicons.org/databricks/ff3621" height="40px" title="Vector DBs (FAISS / ChromaDB)"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ed" height="40px" title="Ollama (Local LLM Serving)"/>
+
+  <!-- Data / Orchestration -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40px" title="Apache Airflow"/>
+
+  <!-- MLOps -->
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="40px" title="MLflow"/>
+  <img src="https://cdn.simpleicons.org/git/white" height="40px" title="DVC (Data Versioning)"/>
+
+  <!-- Infra -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40px" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40px" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40px" title="GCP (BigQuery, Vertex AI)"/>
+
+  <!-- DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40px" title="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40px" title="GitLab CI/CD"/>
+
 </div>
 
 ##
